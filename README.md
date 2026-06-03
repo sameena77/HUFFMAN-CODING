@@ -1,8 +1,8 @@
 # Implementation-Of-Huffman-Coding
 
-**Developed by :**  RAHUL M R
+**Developed by :**  SAMEENA J
 
-**Register no  :**  2305003005
+**Register no  :**  2305002019
 
 ## Aim:
 To implement Huffman coding to compress the data using Python.
